@@ -1,0 +1,14 @@
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\bin\Debug\net8.0\Manav Proje Ödevi.exe
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\bin\Debug\net8.0\Manav Proje Ödevi.deps.json
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\bin\Debug\net8.0\Manav Proje Ödevi.runtimeconfig.json
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\bin\Debug\net8.0\Manav Proje Ödevi.dll
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\bin\Debug\net8.0\Manav Proje Ödevi.pdb
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.AssemblyInfoInputs.cache
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.AssemblyInfo.cs
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.dll
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\refint\Manav Proje Ödevi.dll
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.pdb
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\Manav Proje Ödevi.genruntimeconfig.cache
+C:\Users\GURKAN\source\repos\Manav Proje Ödevi\obj\Debug\net8.0\ref\Manav Proje Ödevi.dll
